@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @CodeOfRedBeard
-- 👀 I’m interested in automation and scripting to better our lives.
-- 🌱 I’m currently learning R for assistance with Salesforce reporting.
+- 👀 I’m interested in flutter, dart, and AI integration.
+- 🌱 I’m currently learning flutter to get ideas out of my brain and into some code.
 - 💞️ I’m looking to collaborate on... well... nothing. Too many irons in the fire.
-- 📫 How to reach me: payner@opentext.com
+- 📫 How to reach me: reggie@randbtalks.com
 - ⚡ Fun fact: Creating complex automation or scripting projects goes a lot better when enjoying a pipe or cigar while drinking a superb coffee beverage. 
 
 <!---
